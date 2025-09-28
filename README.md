@@ -9,6 +9,8 @@ Printing Output (using print())
 
 Taking User Input (using input())
 
+## Code
+```python
 print("Hello, World! 👋")
 
 name = input("What is your name? ")

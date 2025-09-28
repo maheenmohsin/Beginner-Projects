@@ -1,5 +1,8 @@
 # Beginner-Projects
 
+
+## Code
+```python
 Project 1: Hello World + User Input Form
 
 👋 This is the first project in my Python Beginner Projects Series.
@@ -9,8 +12,6 @@ Printing Output (using print())
 
 Taking User Input (using input())
 
-## Code
-```python
 print("Hello, World! 👋")
 
 name = input("What is your name? ")
@@ -24,6 +25,9 @@ How old are you? 20
 Nice to meet you, Maheem! You are 20 years old.
 Did you know? In 5 years, you will be 25 years old! 🚀
 
+
+## Code
+```python
 # 🧮 Project 2: Simple Python Calculator  
 
 ## 📌 Description  

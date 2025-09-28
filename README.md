@@ -1,9 +1,8 @@
 # Beginner-Projects
 
-
+Project 1: Hello World + User Input Form
 ## Code
 ```python
-Project 1: Hello World + User Input Form
 
 👋 This is the first project in my Python Beginner Projects Series.
 It introduces two fundamental concepts in Python programming:
@@ -24,8 +23,9 @@ What is your name? Maheen
 How old are you? 20
 Nice to meet you, Maheem! You are 20 years old.
 Did you know? In 5 years, you will be 25 years old! 🚀
-
-
+## Code
+```
+# 🧮 Project 2: Simple Python Calculator  
 ## Code
 ```python
 # 🧮 Project 2: Simple Python Calculator  
